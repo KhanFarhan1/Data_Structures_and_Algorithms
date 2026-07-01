@@ -77,12 +77,18 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0016-3sum-closest) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
