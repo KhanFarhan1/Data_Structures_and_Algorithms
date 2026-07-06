@@ -83,6 +83,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -112,6 +113,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
@@ -122,6 +124,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
