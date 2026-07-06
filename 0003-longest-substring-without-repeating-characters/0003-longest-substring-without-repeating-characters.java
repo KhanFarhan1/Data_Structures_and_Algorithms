@@ -16,7 +16,7 @@ class Solution {
                 }
                 low++;
             }
-            ans = Math.max(ans,freq.size());
+            ans = Math.max(ans,high-low+1);
             high++;
         }
         return ans;
