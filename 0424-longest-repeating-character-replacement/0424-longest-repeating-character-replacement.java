@@ -19,6 +19,7 @@ class Solution {
                     freq.remove(left);
                 }
                 replace--;
+                //replace = (high-low+1)-maxfreq;
                 low++;
             }
             ans = Math.max(ans,high-low+1);
