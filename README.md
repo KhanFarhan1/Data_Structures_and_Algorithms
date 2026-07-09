@@ -94,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0016-3sum-closest](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
+| [0567-permutation-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -118,6 +119,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0003-longest-substring-without-repeating-characters](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
@@ -134,6 +136,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0076-minimum-window-substring](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -149,4 +152,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0003-longest-substring-without-repeating-characters](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
