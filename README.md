@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0075-sort-colors](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
@@ -139,6 +140,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0424-longest-repeating-character-replacement](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
