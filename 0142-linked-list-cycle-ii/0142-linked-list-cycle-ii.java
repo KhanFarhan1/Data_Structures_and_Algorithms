@@ -21,11 +21,9 @@ public class Solution {
             fast = fast.next.next;
             if(slow == fast){
                 slow = head;
-                int i =0;
                 while(slow != fast){
                 slow = slow.next;
                 fast = fast.next;
-                i++;
                 }
                 return fast;
             }
