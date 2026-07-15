@@ -9,37 +9,20 @@
  *     }
  * }
  */
-// public class Solution {
-//     public boolean hasCycle(ListNode head) {
-//         if(head == null || head.next == null){
-//             return false;
-//         }
-//         ListNode slow = head;
-//         ListNode fast =head;
-//         while(fast.next != null && fast.next.next != null){
-//             slow = slow.next;
-//             fast = fast.next.next;
-//             if(slow.next == fast.next){
-//                 return true;
-//             }
-//         }
-//         return false;
-//     }
-// }
 public class Solution {
     public boolean hasCycle(ListNode head) {
+        if(head == null || head.next == null){
+            return false;
+        }
+        ListNode slow =head;
         ListNode fast = head;
-        ListNode slow = head;
-
-        while (fast != null && fast.next != null) {
-            fast = fast.next.next;
+        while(fast.next != null && fast.next.next != null){
             slow = slow.next;
-
-            if (fast == slow) {
+            fast = fast.next.next;
+            if(slow.next == fast.next){
                 return true;
             }
         }
-
-        return false;        
+        return false;
     }
 }
