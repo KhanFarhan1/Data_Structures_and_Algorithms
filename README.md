@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0018-4sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
@@ -98,6 +99,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0075-sort-colors](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0876-middle-of-the-linked-list) |
@@ -135,6 +137,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -184,4 +187,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0141-linked-list-cycle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0876-middle-of-the-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
