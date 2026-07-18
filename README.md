@@ -90,6 +90,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0992-subarrays-with-k-different-integers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,10 +180,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
