@@ -198,6 +198,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0141-linked-list-cycle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -214,5 +215,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
