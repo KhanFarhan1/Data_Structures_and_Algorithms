@@ -98,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0016-3sum-closest](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
@@ -195,6 +196,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
