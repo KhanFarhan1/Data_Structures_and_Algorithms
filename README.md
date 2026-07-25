@@ -104,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0141-linked-list-cycle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
@@ -125,6 +126,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0016-3sum-closest](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -206,6 +208,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0141-linked-list-cycle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
@@ -233,6 +236,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -241,4 +245,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
