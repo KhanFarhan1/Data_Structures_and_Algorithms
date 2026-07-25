@@ -8,24 +8,34 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+ /*
+ for every list
+    add its head to the priority queue
+
+while priority queue is not empty
+    remove the smallest node
+    attach it to the answer
+    if removed node has a next node
+        add that next node to the priority queue
+ */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        ListNode dummy = new ListNode();
-        ListNode temp = dummy;
-        PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b) ->Integer.compare(a.val,b.val));
-        for(int i =0 ;i<lists.length;i++){
-            if(lists[i] != null){
-                pq.offer(lists[i]);
-            }
+      ListNode dummy = new ListNode();
+      ListNode temp = dummy;
+      PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b)-> Integer.compare(a.val,b.val));
+      
+      for(int i = 0;i<lists.length;i++){
+        if(lists[i]!= null){
+        pq.offer(lists[i]);}
+      }
+    while(!pq.isEmpty()){
+        ListNode curr = pq.poll();
+        temp.next = curr;
+        temp = temp.next;
+        if(curr.next != null){
+            pq.offer(curr.next);
         }
-        while(!pq.isEmpty()){
-            ListNode curr = pq.poll();
-            temp.next = curr;
-            temp = temp.next;
-            if(curr.next != null){
-                pq.offer(curr.next);
-            }
-        }
-        return dummy.next;
+    }
+    return dummy.next;
     }
 }
