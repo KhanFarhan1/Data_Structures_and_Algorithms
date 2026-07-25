@@ -18,9 +18,7 @@ class Solution {
         }
         return slow;
     }
-    public ListNode mergetwolist(ListNode head1 , ListNode head2){
-        ListNode h1 = head1;
-        ListNode h2 = head2;
+    public ListNode mergetwolist(ListNode h1 , ListNode h2){
         ListNode dummy = new ListNode();
         ListNode temp = dummy;
         while(h1 != null && h2 != null){
