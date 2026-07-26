@@ -32,8 +32,10 @@ public class Solution {
         // return null;
 
 
-        //Optimal Approach:
-
+        //Optimal Approach:In this approch we will do both till one of them reach null after that we will 
+        //do is (eg:temp1(It is start form headA) is null then we do is temp1 equal to headB (WHY WE HAVE 
+        //DONE THIS IS NET TRAVEL WILL BE SAME) after that in which compare both are eual return)
+        
         ListNode temp1 = headA;
         ListNode temp2 = headB;
         while(temp1 != temp2){
