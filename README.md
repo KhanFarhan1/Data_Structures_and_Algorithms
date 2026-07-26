@@ -190,6 +190,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -201,6 +202,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0023-merge-k-sorted-lists) |
@@ -232,6 +234,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0203-remove-linked-list-elements) |
