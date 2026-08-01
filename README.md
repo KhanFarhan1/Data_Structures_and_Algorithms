@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -252,6 +253,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0023-merge-k-sorted-lists](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -274,6 +276,15 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0053-maximum-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
