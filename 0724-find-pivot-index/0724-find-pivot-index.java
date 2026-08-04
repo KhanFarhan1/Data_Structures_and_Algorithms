@@ -1,3 +1,6 @@
+/*
+for this we have first have total_sum of the arr and then after we have calculate prefix and suffix prefix is like we have to take i-1 plus prefix itself and for suffix we have to know that [total = nums[i]+prefix + suffix] so suffix is total - num[i] - prefix 
+ */
 class Solution {
     public int pivotIndex(int[] nums) {
         int total_sum = nums[0];
