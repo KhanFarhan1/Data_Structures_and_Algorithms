@@ -87,6 +87,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
@@ -182,6 +183,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
