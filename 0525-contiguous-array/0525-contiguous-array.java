@@ -1,6 +1,9 @@
-//Store the first occurrence of each diff = zero_count - one_count in the HashMap. When the same diff appears again, the subarray between them has an equal number of 0s and 1s, so update the maximum length.
-// Never use getOrDefault() to check if a key exists. Use containsKey() because the first occurrence may be at index 0, and overwriting it loses the longest possible subarray.
-//you can dry run on [0,0,1]
+
+
+// Just do take count of zero and one make a loop the array check num[i] is one or zero and update thenafter if diff is zero that means no. of 1 and o is equal so take maximum and if diff is not zero so check whether the diff is come in hashmap or not 
+// NOTE IN HASHMAP WE STORE DIFF AS KEY AND (i) OF IT AS VALUE
+// case 1 : there is not data in hashmap is add it that yet
+// case 2: if yes get the index and check max of ans and i-index
 
 // class Solution {
 //     public int findMaxLength(int[] nums) {
@@ -40,6 +43,9 @@ class Solution{
             continue;
         }
         if(!freq.containsKey(diff)){
+            /*Always use containsKey() to check if a key exists 
+            in the HashMap; never use getOrDefault(diff,0) for existence
+            checks because the stored value can be 0 (e.g., index 0). */
             freq.put(diff,i);
         }else{
             int v1 = freq.get(diff);
