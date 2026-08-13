@@ -97,6 +97,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0918-maximum-sum-circular-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -126,6 +127,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0881-boats-to-save-people) |
+| [0986-interval-list-intersections](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -311,4 +313,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
