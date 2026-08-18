@@ -5,6 +5,7 @@ class Solution {
         HashMap<Integer,Integer> freq = new HashMap<>();
         int n = nums2.length;
         st.push(nums2[n-1]);
+        freq.put(nums2[n-1] , -1);
         for(int i=n-2;i>=0;i--){
             while(!st.isEmpty() && st.peek() <= nums2[i]){
                 st.pop();
@@ -17,7 +18,7 @@ class Solution {
             st.push(nums2[i]);
         }
         for(int i =0;i<nums1.length;i++){
-            ans[i] = freq.getOrDefault(nums1[i],-1);
+            ans[i] = freq.getOrDefault(nums1[i],0);
         }
         return ans;
     }
