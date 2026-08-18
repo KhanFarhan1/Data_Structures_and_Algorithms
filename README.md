@@ -87,6 +87,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
@@ -163,6 +164,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0202-happy-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0567-permutation-in-string) |
@@ -266,6 +268,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0020-valid-parentheses](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -329,4 +332,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
