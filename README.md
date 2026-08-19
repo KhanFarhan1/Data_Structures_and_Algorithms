@@ -88,6 +88,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
@@ -270,6 +271,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
@@ -338,5 +340,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
