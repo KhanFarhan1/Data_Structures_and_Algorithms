@@ -94,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0643-maximum-average-subarray-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
@@ -269,6 +270,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -336,4 +338,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
