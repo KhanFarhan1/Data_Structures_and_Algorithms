@@ -220,6 +220,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0438-find-all-anagrams-in-a-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Counting
 |  |
 | ------- |
@@ -275,6 +276,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0503-next-greater-element-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Recursion
 |  |
 | ------- |
