@@ -269,6 +269,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0020-valid-parentheses](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0503-next-greater-element-ii) |
@@ -303,6 +304,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
