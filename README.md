@@ -83,6 +83,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0056-merge-intervals](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
@@ -269,6 +270,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
@@ -343,7 +345,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0739-daily-temperatures) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
