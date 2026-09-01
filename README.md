@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0057-insert-interval](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
@@ -233,6 +234,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -276,6 +278,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0071-simplify-path](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0394-decode-string) |
