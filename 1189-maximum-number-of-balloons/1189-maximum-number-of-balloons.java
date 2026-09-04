@@ -19,9 +19,7 @@ class Solution {
         char ch = str.charAt(i);
         int freq_str_ith = freq_str.getOrDefault(ch,0);
         int freq_balloon_ith = freq_balloon.get(ch);
-        if(freq_balloon_ith >0){
             ans = Math.min(ans , freq_str_ith/freq_balloon_ith);
-        }
        }
        return ans;
     }
