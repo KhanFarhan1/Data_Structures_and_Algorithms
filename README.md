@@ -169,6 +169,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0146-lru-cache](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -223,6 +224,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0020-valid-parentheses](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0402-remove-k-digits) |
@@ -234,6 +236,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
