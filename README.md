@@ -98,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0560-subarray-sum-equals-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0735-asteroid-collision) |
@@ -195,6 +196,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
