@@ -1,5 +1,8 @@
 class Solution {
     public int search(int[] nums, int target) {
+        if(nums.length == 0){
+            return -1;
+        }
         int si = 0;
         int ei = nums.length-1;
         while(si<=ei){
