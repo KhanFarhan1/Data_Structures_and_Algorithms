@@ -53,51 +53,40 @@ class Solution {
 
         // return -1;
 
-        // int n = arr.length;
-        // int si = 0;
-        // int ei = n-1;
-        // int mid;
-        // while(si<=ei){
-        //     mid = si + (ei - ei)/2;
-        //     //best case
-        //     if(arr[mid] == target){
-        //         return mid;
-        //     }
-        //     //check mid 
-        //     if(arr[mid] < target){
-        //         si = mid+1;
-        //     }else{
-        //         if(arr[0] > target){
-        //             //go right
-        //             si = mid+1;
-        //         }else{
-        //             //go left
-        //             ei = mid-1;
-        //         }
-                
-        //     }
-        // }
-        // return -1;
-
         int n = arr.length;
         int si = 0;
         int ei = n-1;
         int mid;
         while(si<=ei){
-            mid = ei + (ei-ei)/2;
+            mid = si + (ei - si)/2;
             if(arr[mid] == target){
                 return mid;
             }
-            if(arr[mid]>target){
-                ei = mid-1;
-            }else{
-                if(target > arr[n-1]){
+            if(arr[mid] > arr[n-1]){//part-1
+                if(arr[mid] < target){
+                    si = mid+1;
+                }else{
+                    if(arr[0] > target){
+                        si = mid+1;
+                    }else{
+                        ei = mid-1;
+                    }
+                    continue;
+                }
+            }else{//part-2
+                if(arr[mid]>target){
                     ei = mid-1;
                 }else{
-                    si = mid+1;
+                    if(target > arr[n-1]){
+                        ei = mid-1;
+                    }else{
+                        si = mid+1;
+                    }
                 }
+                continue;
             }
-        }  
-        return -1; 
+            
+        }
+        return -1;
     }
 }
