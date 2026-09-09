@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0011-container-with-most-water](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0057-insert-interval) |
@@ -195,6 +196,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
