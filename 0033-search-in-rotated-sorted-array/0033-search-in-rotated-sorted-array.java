@@ -66,26 +66,25 @@ class Solution {
                 if(arr[mid] < target){
                     si = mid+1;
                 }else{
-                    if(arr[0] > target){
+                    if(arr[0]>target){
                         si = mid+1;
                     }else{
                         ei = mid-1;
-                    }
-                    continue;
-                }
-            }else{//part-2
-                if(arr[mid]>target){
-                    ei = mid-1;
-                }else{
-                    if(target > arr[n-1]){
-                        ei = mid-1;
-                    }else{
-                        si = mid+1;
                     }
                 }
                 continue;
+            }else{//part-2
+            if(arr[mid] > target){
+                ei = mid-1;
+            }else{
+                if(arr[n-1]<target){
+                    ei = mid-1;
+                }else{
+                    si = mid+1;
+                }
             }
-            
+            continue;
+            }
         }
         return -1;
     }
