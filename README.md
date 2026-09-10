@@ -98,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0643-maximum-average-subarray-i) |
@@ -202,6 +203,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0162-find-peak-element](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
