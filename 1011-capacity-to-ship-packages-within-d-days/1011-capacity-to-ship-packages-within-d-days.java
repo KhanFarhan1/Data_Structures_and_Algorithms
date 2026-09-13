@@ -2,14 +2,15 @@ class Solution {
     public boolean calculate_day(int[] weights , int days , int predicted_weight){
         int var1 = 0;
         for(int i = 0;i<weights.length;i++){
-            var1 += weights[i];
-            if(var1 <= predicted_weight){
+            if(var1 + weights[i] <= predicted_weight){
+                var1 += weights[i];
                 continue;
             }
-            var1 = var1 - weights[i];
-            i--;
             days--;
-            var1 = 0;
+            var1 = weights[i];
+            if(var1 > predicted_weight){   
+            return false;
+            }
             if(days == 0){
                 return false;
             }
@@ -17,10 +18,11 @@ class Solution {
         return true;
     }
     public int shipWithinDays(int[] weights, int days) {
-        int si = 1;
+        int si = Integer.MIN_VALUE;
         int ei = 0;
         int ans = Integer.MAX_VALUE;
         for(int i = 0;i<weights.length;i++){
+            si =Math.max(si , weights[i]);
             ei = ei + weights[i];
         }
         while(si <= ei){
