@@ -94,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0410-split-array-largest-sum) |
@@ -211,6 +212,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0410-split-array-largest-sum) |
@@ -357,6 +359,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0023-merge-k-sorted-lists](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
@@ -430,6 +433,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 ## Union-Find
 |  |
 | ------- |
