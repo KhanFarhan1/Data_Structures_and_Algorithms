@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0018-4sum) |
@@ -209,6 +210,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -361,6 +363,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
