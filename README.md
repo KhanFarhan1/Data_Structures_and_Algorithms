@@ -221,6 +221,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0410-split-array-largest-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -288,6 +289,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0002-add-two-numbers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
