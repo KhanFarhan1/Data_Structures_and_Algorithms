@@ -1,3 +1,4 @@
+//Max-Min Heap i.e.max-heap on frequency + min-heap on String for ties.
 class Solution {
     class Pair{
         int first;
@@ -18,9 +19,9 @@ class Solution {
         PriorityQueue <Pair> pq = new PriorityQueue<>(
             (a,b)->{
                 if(a.first != b.first){
-                    return b.first-a.first;
+                    return a.first-b.first;
                 }
-                return a.second.compareTo(b.second);
+                return b.second.compareTo(a.second);
             }
         );
         //add hashmap element to heap
@@ -28,6 +29,9 @@ class Solution {
         String key = entry.getKey();
         int value = entry.getValue();
         pq.add(new Pair(value , key));
+        if(pq.size() > k){
+            pq.poll();
+        }
        }
        //creating k size list for string to return it
        ArrayList<String> ans = new ArrayList<>();
@@ -35,6 +39,7 @@ class Solution {
         ans.add(pq.poll().second);
         k--;
        }
+       Collections.reverse(ans);
        return ans;
     }
 }
