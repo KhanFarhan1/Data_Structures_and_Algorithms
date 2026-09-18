@@ -15,7 +15,7 @@ class Solution {
         PriorityQueue <Pair> pq = new PriorityQueue<>(
             (a,b)->{
                 if(a.first != b.first){
-                    return b.first-a.first;
+                    return a.first-b.first;
                 }
                 return a.second-b.second;
             }
@@ -24,6 +24,9 @@ class Solution {
             int key = entry.getKey();
             int value = entry.getValue();
             pq.add(new Pair(value , key));
+            if(pq.size() >k){
+                pq.poll();
+            }
         }
         int[] ans = new int[k];
         for(int i =0;i<k;i++){
