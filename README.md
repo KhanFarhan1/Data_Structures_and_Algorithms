@@ -171,6 +171,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0410-split-array-largest-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
+| [0767-reorganize-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -187,6 +188,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -214,6 +216,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0560-subarray-sum-equals-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -291,6 +294,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0438-find-all-anagrams-in-a-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -301,6 +305,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0383-ransom-note](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1189-maximum-number-of-balloons) |
 ## Math
@@ -400,6 +405,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
