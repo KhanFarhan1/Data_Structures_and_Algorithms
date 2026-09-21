@@ -21,21 +21,24 @@ while priority queue is not empty
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
       ListNode dummy = new ListNode();
-      ListNode temp = dummy;
-      PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b)-> Integer.compare(a.val,b.val));
-      
-      for(int i = 0;i<lists.length;i++){
-        if(lists[i]!= null){
-        pq.offer(lists[i]);}
-      }
-    while(!pq.isEmpty()){
-        ListNode curr = pq.poll();
-        temp.next = curr;
-        temp = temp.next;
-        if(curr.next != null){
-            pq.offer(curr.next);
+      ListNode curr = dummy;
+      PriorityQueue<ListNode> pq = new PriorityQueue<>(
+        (a,b)->{
+            return a.val-b.val;
         }
-    }
-    return dummy.next;
+      );
+      for(int i = 0;i<lists.length;i++){
+        if(lists[i] != null)
+        pq.add(lists[i]);
+      }
+      while(!pq.isEmpty()){
+        ListNode node = pq.poll();
+        curr.next = node;
+        curr = curr.next;
+        if(node.next != null){
+            pq.add(node.next);
+        } 
+      }
+      return dummy.next;
     }
 }
