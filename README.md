@@ -510,4 +510,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0973-k-closest-points-to-origin) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
