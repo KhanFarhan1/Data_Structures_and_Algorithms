@@ -104,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0410-split-array-largest-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -172,6 +173,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0409-longest-palindrome](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0767-reorganize-string) |
@@ -188,6 +190,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0347-top-k-frequent-elements](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0658-find-k-closest-elements) |
@@ -409,6 +412,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0215-kth-largest-element-in-an-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0692-top-k-frequent-words) |
