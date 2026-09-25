@@ -133,6 +133,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -198,6 +199,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0767-reorganize-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
@@ -255,6 +257,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0875-koko-eating-bananas](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sliding Window
@@ -419,6 +422,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0767-reorganize-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -489,6 +493,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0085-maximal-rectangle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Union-Find
 |  |
 | ------- |
