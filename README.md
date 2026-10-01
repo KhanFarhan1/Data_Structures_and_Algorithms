@@ -83,6 +83,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0018-4sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0057-insert-interval) |
@@ -548,4 +549,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
