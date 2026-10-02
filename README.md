@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0057-insert-interval](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -370,6 +371,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -550,4 +552,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
