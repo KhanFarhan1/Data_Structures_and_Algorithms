@@ -92,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0078-subsets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0152-maximum-product-subarray) |
@@ -372,6 +373,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -553,4 +555,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0039-combination-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
