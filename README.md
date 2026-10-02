@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0033-search-in-rotated-sorted-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0057-insert-interval) |
@@ -554,6 +555,11 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
