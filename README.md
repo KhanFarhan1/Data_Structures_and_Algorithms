@@ -306,6 +306,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0394-decode-string) |
@@ -457,6 +458,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0435-non-overlapping-intervals) |
@@ -561,6 +563,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0051-n-queens](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
