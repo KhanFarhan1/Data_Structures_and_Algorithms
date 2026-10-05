@@ -561,6 +561,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0046-permutations](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0131-palindrome-partitioning) |
@@ -568,4 +569,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
