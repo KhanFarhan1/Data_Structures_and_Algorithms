@@ -146,6 +146,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2596-check-knight-tour-configuration](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
 | ------- |
@@ -505,6 +506,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0735-asteroid-collision) |
+| [2596-check-knight-tour-configuration](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
 | ------- |
@@ -513,6 +515,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0240-search-a-2d-matrix-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Union-Find
 |  |
 | ------- |
@@ -570,4 +573,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0051-n-queens](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0052-n-queens-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
