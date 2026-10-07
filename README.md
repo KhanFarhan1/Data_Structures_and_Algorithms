@@ -92,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0074-search-a-2d-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0090-subsets-ii) |
@@ -307,6 +308,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0383-ransom-note](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0387-first-unique-character-in-a-string) |
@@ -511,6 +513,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -566,6 +569,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0051-n-queens](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
@@ -576,6 +580,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0079-word-search) |
 | [2596-check-knight-tour-configuration](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
