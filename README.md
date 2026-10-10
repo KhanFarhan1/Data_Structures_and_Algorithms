@@ -393,6 +393,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0094-binary-tree-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0234-palindrome-linked-list) |
@@ -586,6 +587,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0079-word-search](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0226-invert-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -598,11 +600,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
