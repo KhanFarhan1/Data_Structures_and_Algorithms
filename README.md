@@ -338,6 +338,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0509-fibonacci-number) |
