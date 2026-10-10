@@ -390,6 +390,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0071-simplify-path](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0155-min-stack) |
@@ -582,6 +583,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0079-word-search](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0226-invert-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -592,9 +594,11 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
