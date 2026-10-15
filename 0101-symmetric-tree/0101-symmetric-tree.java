@@ -29,9 +29,9 @@ class Solution {
         return left_side&&right_side;
     }
     public boolean isSymmetric(TreeNode root) {
-        if(root == null){
-            return true;
-        }
+        // if(root == null){
+        //     return true;
+        // }
         return wrap(root.left , root.right);
     }
 }
