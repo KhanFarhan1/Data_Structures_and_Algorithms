@@ -14,14 +14,33 @@
  * }
  */
 class Solution {
-    public TreeNode invertTree(TreeNode root) {
+    public void swap(TreeNode root){
+        if(root == null){
+            return;
+        }
+        TreeNode temp = root.left;
+        root.left = root.right;
+        root.right = temp;
+    }
+    public TreeNode warp(TreeNode root){
         if(root == null){
             return null;
         }
-        TreeNode left_invert = invertTree(root.left);
-        TreeNode right_invert = invertTree(root.right);
-        root.left = right_invert;
-        root.right = left_invert;
+        swap(root);
+        warp(root.left);
+        warp(root.right);
         return root;
+    }
+    public TreeNode invertTree(TreeNode root) {
+        // if(root == null){
+        //     return null;
+        // }
+        // TreeNode left_invert = invertTree(root.left);
+        // TreeNode right_invert = invertTree(root.right);
+        // root.left = right_invert;
+        // root.right = left_invert;
+        // return root;
+        TreeNode ans = warp(root);
+        return ans;
     }
 }
