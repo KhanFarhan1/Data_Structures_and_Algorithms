@@ -477,6 +477,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0509-fibonacci-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
@@ -601,6 +602,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -632,6 +634,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -652,6 +655,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Lifting
@@ -674,10 +678,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
