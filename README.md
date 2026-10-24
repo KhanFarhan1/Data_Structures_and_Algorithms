@@ -188,6 +188,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0621-task-scheduler](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0881-boats-to-save-people) |
+| [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -433,6 +434,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0347-top-k-frequent-elements](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -599,6 +601,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -629,6 +632,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -648,6 +652,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Lifting
 |  |
@@ -674,4 +679,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
