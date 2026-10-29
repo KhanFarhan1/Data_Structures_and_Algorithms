@@ -33,3 +33,8 @@ class Solution {
         return minfun(root, targetSum, 0, new ArrayList<Integer>(), new ArrayList<List<Integer>>());
     }
 }
+
+/* main issue while solvng this question is parameter of minfun and pathSum and make a new copy of ans while saving it 
+    1. ArrayList<ArrayList<Integer>>() 
+    2. while targetSum == sum  make new copy of ans not save it like list.add(ans); directly 
+ */
