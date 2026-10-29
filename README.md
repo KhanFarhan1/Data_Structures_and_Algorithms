@@ -583,6 +583,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0078-subsets](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
@@ -599,6 +600,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0101-symmetric-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0226-invert-binary-tree) |
@@ -637,6 +639,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0226-invert-binary-tree) |
@@ -663,6 +666,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0226-invert-binary-tree) |
