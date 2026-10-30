@@ -96,6 +96,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0084-largest-rectangle-in-histogram](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -221,6 +222,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0003-longest-substring-without-repeating-characters](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
@@ -429,6 +431,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0004-median-of-two-sorted-arrays](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
@@ -636,6 +639,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0101-symmetric-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
@@ -664,6 +668,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0101-symmetric-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
