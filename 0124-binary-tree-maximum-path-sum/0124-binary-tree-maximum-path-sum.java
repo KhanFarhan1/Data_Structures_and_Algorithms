@@ -21,7 +21,9 @@ class Solution {
         int rightMax = helperfun(root.right);
         leftMax = Math.max(leftMax , 0);
         rightMax = Math.max(rightMax , 0);
+        //one split allow
         res = Math.max(res , root.val+leftMax+rightMax);
+        //maximum possible from left or right node part to return
         return root.val+Math.max(leftMax, rightMax);
     }
     public int maxPathSum(TreeNode root) {
