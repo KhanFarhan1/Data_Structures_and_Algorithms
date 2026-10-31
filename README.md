@@ -478,6 +478,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0410-split-array-largest-sum) |
@@ -607,6 +608,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0110-balanced-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -650,6 +652,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0110-balanced-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -681,6 +684,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0110-balanced-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
@@ -717,6 +721,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
