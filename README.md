@@ -638,6 +638,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0112-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Tree
@@ -670,6 +671,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0572-subtree-of-another-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
@@ -704,6 +706,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0572-subtree-of-another-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
