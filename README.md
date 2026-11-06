@@ -149,6 +149,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2596-check-knight-tour-configuration](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
@@ -252,6 +253,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0992-subarrays-with-k-different-integers](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
 | ------- |
@@ -681,6 +683,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1325-delete-leaves-with-a-given-value](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -718,6 +721,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1325-delete-leaves-with-a-given-value](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Lifting
 |  |
