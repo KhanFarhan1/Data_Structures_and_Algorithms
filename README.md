@@ -375,6 +375,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0142-linked-list-cycle-ii) |
@@ -438,6 +439,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
@@ -661,6 +663,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0112-path-sum) |
@@ -699,6 +702,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0112-path-sum) |
@@ -752,6 +756,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KhanFarhan1/Data_Structures_and_Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
